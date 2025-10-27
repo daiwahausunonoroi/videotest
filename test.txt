@@ -15,6 +15,7 @@ p {
   background: transparent;/*背景透明に*/
   border-left: solid 5px #7db4e6;/*左線*/
 }
+
 <!DOCTYPE html>
 <html lang="ja">
 <head>
